@@ -17,6 +17,9 @@ Design a new design scheme of copyright management system for digital assets bas
 
 This scheme can enhance the effectiveness of digital watermarking technology in the field of copyright protection. In this way, use a P2P network to integrate and complete copyright and distribute the copyrighted works without requiring a trusted third party. Nodes rely on cryptography to confirm the identity of each other and ensure the security of information. It can reduce information leakage, data destruction and other risks caused by the collapse of the centralized system in the past. This improves the security and transparency of information and speeds up the distribution of copyrighted works to facilitate circulation in the network. This scheme can also improve copyright protection of multiple creations. Combine Golem blockchain and multiple digital watermarks to record copyright information of every copyright owner in the authoring process and fully prove this information. 
 
+ ![alt text](https://siasky.net/OACf30RutRH8GDFzAyVc5EnG_TOLKauRlQh6YQ3vpav4XA)  
+
+
 ## Getting Started
 
 ### Prerequisites
